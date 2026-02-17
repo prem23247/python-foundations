@@ -1,28 +1,24 @@
 # Python Foundations
 
-## Project Overview
-Welcome to **Python Foundations**! This project is a curated collection of beginner-friendly Python scripts designed to help you understand the core concepts of the language. Each file is a standalone runnable example with detailed comments explaining the logic.
+This repository contains clean and well-structured Python programs
+created to build strong computer science fundamentals.
 
 ## Topics Covered
-The project is organized into the following modules:
+- Variables and Data Types
+- Input and Output
+- Conditional Statements
+- Loops (including for-else)
+- Functions
+- List and String Methods
+- Basic Problem Solving Programs
 
-1.  **Basics**: Variables, Data Types, Input/Output
-2.  **Control Flow**: If/Else conditionals, Loops (For, While)
-3.  **Functions**: Introduction to defining and calling functions
-4.  **Lists & Strings**: Common methods and manipulations
-5.  **Mini Programs**: Practical examples like Prime Numbers, Armstrong Numbers, and Pattern Printing
+## Folder Structure
+- basics/ → Core Python syntax
+- control_flow/ → if-else, loops
+- functions/ → Function examples
+- lists_strings/ → Data structure operations
+- mini_programs/ → Logic-based problems
 
-## How to Run Files
-You can run any file in this project using the Python interpreter from your terminal or command prompt.
-
-**Example:**
-To run the `variables.py` script located in the `basics` folder:
-
+## How to Run
 ```bash
-python basics/variables.py
-```
-
-Make sure you have Python installed on your system.
-
-## Author
-**Prem Patel**
+python filename.py
